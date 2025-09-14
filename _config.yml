@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Mohsen EsfandyariDoulabi"
-  pronouns         : "He/Him"  
+  pronouns         : "He/Him/His"  
   bio              : "PhD student @ North Carolina State University | Software Testing | Software Security"
   location         : "Raleigh, NC"
   employer         : "North Carolina State University"
@@ -221,7 +221,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
@@ -229,6 +229,13 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  experiences:
+    output: false
+    permalink: /experiences/:title/
+  academic:
+    output: false            
+    permalink: /academic/:title/
+
 
 
 # These settings control how pages and collections are included in the site
@@ -286,6 +293,21 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _experiences
+  - scope:
+      path: ""
+      type: experiences
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
+  # _academic
+  - scope:
+      path: ""
+      type: academic
+    values:
+      layout: single
+      classes: wide
 
 
 # Sass/SCSS

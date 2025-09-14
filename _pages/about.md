@@ -6,13 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="margin-bottom: 8px;">Welcome to my homepage! I am Mohsen, a Second year PhD student at North Carlolina State University.</div>
+<div style="margin-bottom: 8px;">Welcome to my homepage! I am Mohsen, a Second year PhD student at North Carolina State University.</div>
 
 ## Educations
 
-<div style="margin-bottom: 6px;">• 2024.08 - Now, Ph.D. student in Computer Science, North Carlolina State University, Raleigh, NC. Supervisor: <a href="https://damorim.github.io/">Marcelo d'Amorim</a>.</div>
+<div style="margin-bottom: 6px;">• 2024.08 - Now, Ph.D. student in Computer Science, North Carolina State University, Raleigh, NC. Supervisor: <a href="https://damorim.github.io/">Marcelo d'Amorim</a>.</div>
 
-<div style="margin-bottom: 6px;">• 2017.09 - 2022.05, Undergraduate student in Computer Engineering, Azad University, Theran, IR.</div>
+<div style="margin-bottom: 6px;">• 2017.09 - 2022.05, Undergraduate student in Computer Engineering, Azad University, Tehran, IR.</div>
 
 ## Research Interests
 
