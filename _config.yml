@@ -188,8 +188,8 @@ exclude:
   - README
   - tmp
   - vendor
-  - cv 
-  - cv-json
+  - /cv 
+  - /cv-json
 
 keep_files:
   - .git
