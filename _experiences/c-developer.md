@@ -1,6 +1,6 @@
 ---
 title: Software Developer
-company: Independent / Open Source
+company: Behin Afzar
 role: Software Developer
 location: Tehran, Iran
 date_start: 2024-02-10
