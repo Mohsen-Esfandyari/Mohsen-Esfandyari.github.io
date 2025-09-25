@@ -1,6 +1,6 @@
 ---
 title: SOC SIEM Engineer
-company: APK Group
+company: Iran Airports and Air Navigation Company
 role: SOC SIEM Engineer
 location: Tehran, Iran
 date_start: 2020-05-10

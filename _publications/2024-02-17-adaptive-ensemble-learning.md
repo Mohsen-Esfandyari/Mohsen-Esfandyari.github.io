@@ -4,7 +4,7 @@ title: >-
   A Dynamic Weighted Hybrid Model Using SVM, DT, and ANFIS-PSO
 authors: Mohsen EsfandyariDoulabi, Amin Esfandiyari Doulabi, Javad Khaligh
 category: conferences
-venue: Under Review
-date: 2025-02-17
+venue: International Conference on Computer and Knowledge Engineering (ICCKE).
+date: 2025
 #pdf: 
 ---
